@@ -1,0 +1,44 @@
+carousel-item active img carimg{
+    width: 200px;
+    height: 200px;
+}
+
+/* rodapé */
+.footer{
+    overflow: hidden;
+    background-color: rgb(66, 60, 60);
+    position: sticky;
+    top: 100%;
+    padding: 20px 10px;
+
+}
+.footer h1{
+    color: bisque;
+    font-size: 20px;
+    font-weight: bold;
+}
+.footer p{
+    color:yellow;
+    font-size: 10px;
+}
+
+.footer a{
+    color: bisque;
+    text-decoration: none;
+    padding: 0px 0px;
+    font-size: 18px;
+}
+.footer a:hover{
+    color: yellow;
+}
+.footer i{
+    padding: 0px 8px;
+}
+/* paragrafo */
+
+.col h2{
+    color: rgb(13, 13, 125);
+    font-size: 30px;
+    font-family: sans-serif;
+
+}
