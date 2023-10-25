@@ -1,0 +1,59 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Maria Salviano",
+      "email": "mar@ig.com.br"
+    },
+    {
+      "id": 2,
+      "nome": "Carlos André",
+      "email": "carandre@outlook.com.br"
+    },
+    {
+      "id": 3,
+      "nome": "Silvia Lima",
+      "email": "smlima2023@ig.com.br"
+    },
+    {
+      "id": 4,
+      "nome": "Celso Omar Brado",
+      "email": "omar@ig.com.br"
+    },
+    {
+      "id": 5,
+      "nome": "Norma Nicka",
+      "email": "nmcda@ig.com.br"
+    },
+    {
+      "nome": "Nivaldo Batista",
+      "email": "batista_nba@hotmail.com",
+      "id": 6
+    },
+    {
+      "nome": "Carlos",
+      "email": "carlos@ig.com.br",
+      "id": 7
+    },
+    {
+      "nome": "Nivaldo Batista",
+      "email": "carlos@ig.com.br",
+      "id": 8
+    },
+    {
+      "nome": "Sonia Lins",
+      "email": "sonialisn@hotmail.com",
+      "id": 9
+    },
+    {
+      "nome": "Monica de Almeida",
+      "email": "monica_a@ig.com.br",
+      "id": 10
+    },
+    {
+      "nome": "Celia Pereira",
+      "email": "celia@ig.com.br",
+      "id": 11
+    }
+  ]
+}
