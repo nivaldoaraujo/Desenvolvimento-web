@@ -1,0 +1,9 @@
+.foto{
+height: 20px;
+width: 20px;
+}
+.card{
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+}

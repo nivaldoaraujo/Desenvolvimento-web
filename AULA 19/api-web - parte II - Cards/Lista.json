@@ -1,0 +1,47 @@
+{
+    "produtos": 
+    [
+      {
+        "id": 1,
+        "nome": "Noote book intel - Mais ULTRA",
+        "valor": 2500,
+        "detalhes": "Processador XT 5 núcleo 420MB cache, Memória RAM 8GB, placa de vídeo AMR Rodeon 4GB",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgfWI--ZYE5wJ6HxyedJF4J6wHD3nT5lYfMg&usqp=CAU"
+      },
+      {
+        "id": 2,
+        "nome": "HD Externo",
+        "valor": 210,
+        "detalhes": "Hd de 1 terByte",
+        "img": "https://images-americanas.b2w.io/produtos/3442017475/imagens/hd-externo-portatil-320gb-completo-com-cabo-2-0-promocao/3442017483_1_large.jpg"
+      },
+      {
+        "id": 3,
+        "nome": "Noote book intel",
+        "valor": 2500,
+        "detalhes": "Processador XT 5 núcleo 420MB cache, Memória RAM 8GB, placa de vídeo AMR Rodeon 4GB",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgfWI--ZYE5wJ6HxyedJF4J6wHD3nT5lYfMg&usqp=CAU"
+      },
+      {
+        "id": 4,
+        "nome": "HD Externo",
+        "valor": 210,
+        "detalhes": "Hd de 1 terByte",
+        "img": "https://images-americanas.b2w.io/produtos/3442017475/imagens/hd-externo-portatil-320gb-completo-com-cabo-2-0-promocao/3442017483_1_large.jpg"
+      },
+      {
+        "id": 5,
+        "nome": "Noote book intel",
+        "valor": 2500,
+        "detalhes": "Processador XT 5 núcleo 420MB cache, Memória RAM 8GB, placa de vídeo AMR Rodeon 4GB",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgfWI--ZYE5wJ6HxyedJF4J6wHD3nT5lYfMg&usqp=CAU"
+      },
+      {
+        "id": 6,
+        "nome": "HD Externo",
+        "valor": 210,
+        "detalhes": "Hd de 1 terByte",
+        "img": "https://images-americanas.b2w.io/produtos/3442017475/imagens/hd-externo-portatil-320gb-completo-com-cabo-2-0-promocao/3442017483_1_large.jpg"
+      }
+    ]
+  }
